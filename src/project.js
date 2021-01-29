@@ -1021,9 +1021,9 @@ window.__require = function e(t, n, o) {
           }).union().repeatForever().start()
         }, t.prototype.update = function (e) {
         }, t.prototype.adsButtonFunc2 = function () {
-          window.location.href = "https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png"
+          window.location.href = "https://v.qq.com/x/cover/0sdnyl7h86atoyt.html?sf=uri"
         }, t.prototype.bannerButtonFunc = function () {
-          window.location.href = "https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png"
+          window.location.href = "https://v.qq.com/x/cover/0sdnyl7h86atoyt.html?sf=uri"
         }, t.prototype.ShowFailedUi = function (e, t) {
           var n = this;
           this.scheduleOnce(function () {
@@ -1980,7 +1980,7 @@ window.__require = function e(t, n, o) {
         }, t.prototype.update = function (e) {
           this.UpdateScoreLabel(e), this.lerpCtrl && this.lerpNumFunc(this.passlevelYQ), this.levelPanel.children[1].getComponent(cc.Label).string = s.default.Instance.GetLevel().toString()
         }, t.prototype.adsButtonFunc = function () {
-          window.location.href = "https://636f-codenav-8grj8px727565176-1256524210.tcb.qcloud.la/yupi_wechat.png";
+          window.location.href = "https://v.qq.com/x/cover/0sdnyl7h86atoyt.html?sf=uri";
         }, t.prototype.TestPasslevel = function () {
           var e = this;
           this.lerpCtrl = !0, this.nowYQ >= this.passlevelYQ && (this.levelPanel.children[2].runAction(cc.sequence(cc.delayTime(1.3), cc.callFunc(function () {
