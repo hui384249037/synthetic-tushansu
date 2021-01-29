@@ -2,7 +2,7 @@
  * 分数加成
  * @type {number}
  */
-let extraScore;
+let extraScore = 0;
 let extraScoreStr = '';
 
 // while (isNaN(extraScore)) {
